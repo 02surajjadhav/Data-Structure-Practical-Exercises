@@ -82,7 +82,7 @@ int main()
     update(s, n, roll);
 
     cout << "\n\n--- Updated Records ---";
-    display(s, n);
+    displawy(s, n);
 
     return 0;
-}z
+}
